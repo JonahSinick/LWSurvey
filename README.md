@@ -1,9 +1,13 @@
 # LWSurvey
 Data science tutorial based on LW Survey
 
+##Setup
+
 If you're new to using R, follow the instructions in "setup.md."
 
-The dataset in cleanedNotFilled consists of a subset of the data from the [2014 Less Wrong survey](http://lesswrong.com/lw/lhg/2014_survey_results/). The idea here is to give a simplified version of the dataset that's easy to explore:
+##The data set
+
+The dataset in cleanedNotFilled consists of a subset of the data from the [2014 Less Wrong survey](http://lesswrong.com/lw/lhg/2014_survey_results/). The idea here is to give a simplified version of the dataset that's easy to explore. I:
 
 1.  Restricted to respondents who answered the question about whether they had been diagnosed with depression
 2.  Removed the calibration question and answer features, and a few others.
